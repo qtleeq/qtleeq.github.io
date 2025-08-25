@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Initial Steps"
+title:  "Initial Steps Towards Removing Paul Vaccaro"
 date:   2025-08-25 08:00:00 -0500
 categories: jekyll update
 ---
