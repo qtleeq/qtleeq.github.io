@@ -21,12 +21,10 @@
 title: Taylor Lee's Cove Blog
 email: taylor.dennis.lee@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog has been started by longtime Cove resident Taylor Lee to get Cove Janitor 
-  and violent biker thug Paul Vaccaro fired for his numerous acts of violence, 
-  stalking and harassment.
+  Taylor Lee is a Madison, WI native who gave Donald Trump, the NSA 
+  and US Cyber Command the idea for QAnon in May 2017.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "qtleeq.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
 
 # Build settings
 theme: minima
