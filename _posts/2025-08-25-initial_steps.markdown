@@ -2,7 +2,7 @@
 layout: post
 title:  "Initial Steps Toward Removing Paul Vaccaro"
 date:   2025-08-25 08:00:00 -0500
-categories: jekyll update
+categories: cove
 ---
 It is my personal quest to get Paul Vaccaro terminated from employment by the Cove for his numerous acts of violence, stalking and harassment. Getting him fired will not be an easy task; He has many allies on the board, and he spends most of his time socializing with residents, given there is very little actual work for him to do. He picks roughly five percent of residents at the Cove to antagonize, and my Mother and I have been chosen by him to be victimized simply because we don't want him in our family. It is an extremely upsetting situation, and it calls for taking drastic action, as every day his behavior becomes more and more erratic and my family falls into even greater danger. He is mentally unstable, cannot control his anger, and given that he has committed acts of violence in the past, we can only assume that he will do so again.
 
