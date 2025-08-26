@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Happy to take this blog down when Paul has been fired."
+title:  "Happy to take this blog down once Paul has been fired."
 data:   2025-08-25 19:43:51 -0500
 categories: cove
 ---
