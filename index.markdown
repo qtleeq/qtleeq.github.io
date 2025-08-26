@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![Cove Condominiums](images/cove.png)
+![Cove Condominiums](images/cove.jpg)
