@@ -8,4 +8,4 @@ Hey guys, while I am working on my Shorewood Hills Violence Alert Report for mas
 
 [Vaccaro Violence Blog Flyer](/images/vvb_flyer.pdf)
 
-So, maybe is isn't great. I could include a picture of him on a motorcycle. I will think it over. Just know I could start emailing and printing off these at any point in time. I guess I need to make the [Shorewood Hills Violence Alert](https://shorewoodhillsviolencealert.github.io) a bit more filled out with background information, kind of like a shorter, HTML version of the Shorewood Hills Violence Alert Report. Trying to think of how I want to do this.
+So, maybe is isn't great. I could include a picture of him on a motorcycle. I will think it over. Just know I could start emailing and printing off these at any point in time. I guess I need to make the [Shorewood Hills Violence Alert](https://shorewoodhillsviolencealert.github.io) a bit more filled out with background information, kind of like a shorter, HTML version of the Shorewood Hills Violence Alert Report. Trying to think of how I want to do this. It's not even 8 yet.
